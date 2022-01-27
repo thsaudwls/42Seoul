@@ -1,0 +1,6 @@
+Credentials cache: API:ACEC92D8-0A9D-4EEA-A899-52E85DF0EA71
+        Principal: myson@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan  4 17:39:57 2022  Jan  5 03:39:57 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
+Jan  4 17:39:59 2022  Jan  5 03:39:57 2022  HTTP/student-storage.42seoul.kr@42SEOUL.KR
